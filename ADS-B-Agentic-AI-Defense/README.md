@@ -28,7 +28,7 @@ Because the global 1090 MHz aviation broadcast channel lacks native encryption o
 
 ## 👥 Research & Development Team: Vakin
 * **Abdul Mannan** — AI/ML Intern, NCRA-UAV Lab (FAST-NUCES)
-* **[Talha Anwar]** — AI/ML Intern, NCRA-UAV Lab (FAST-NUCES)
+* **Talha Anwar** — AI/ML Intern, NCRA-UAV Lab (FAST-NUCES)
 
 **Supervised By:** [Supervisor's Name/Designation]  
 **Institution:** National Center of Robotics and Automation (NCRA) - UAV Lab, FAST-NUCES, Islamabad.
